@@ -42,7 +42,3 @@ node prisma/seed.js
 
 ### 4. Jalankan Server
 npx nodemon server.js
-
-git clone <PASTE_LINK_GITHUB_KAMU_DISINI>
-cd <NAMA_FOLDER_PROJECT>
-npm install
