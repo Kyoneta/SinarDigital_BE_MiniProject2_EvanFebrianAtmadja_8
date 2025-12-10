@@ -22,13 +22,13 @@ Ikuti langkah-langkah berikut secara berurutan agar aplikasi berjalan lancar:
 
 ### 1. Clone Repository & Install Dependencies
 Buka terminal dan jalankan perintah berikut:
-```bash`
+```bash
 git clone <PASTE_LINK_GITHUB_KAMU_DISINI>
 cd <NAMA_FOLDER_PROJECT>
 npm install
 
 ### 2. Konfigurasi Environment (.env)
-# Ganti user:password jika perlu. Default XAMPP biasanya root tanpa password
+Ganti user:password jika perlu. Default XAMPP biasanya root tanpa password
 DATABASE_URL="mysql://root:@127.0.0.1:3306/db_tabungan_target"
 PORT=3000
 
