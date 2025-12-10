@@ -26,6 +26,7 @@ Buka terminal dan jalankan perintah berikut:
 git clone <PASTE_LINK_GITHUB_KAMU_DISINI>
 cd <NAMA_FOLDER_PROJECT>
 npm install
+```
 
 ### 2. Konfigurasi Environment (.env)
 Ganti user:password jika perlu. Default XAMPP biasanya root tanpa password
