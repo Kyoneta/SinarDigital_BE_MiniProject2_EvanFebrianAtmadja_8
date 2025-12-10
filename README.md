@@ -33,10 +33,10 @@ DATABASE_URL="mysql://root:@127.0.0.1:3306/db_tabungan_target"
 PORT=3000
 
 ### 3. Setup Database (Prisma)
-# 1. Membuat Tabel (Migrasi)
+1. Membuat Tabel (Migrasi)
 npx prisma migrate dev --name init
 
-# 2. Mengisi Data Dummy (Seeding)
+2. Mengisi Data Dummy (Seeding)
 node prisma/seed.js
 
 ### 4. Jalankan Server
